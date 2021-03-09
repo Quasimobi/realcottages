@@ -1,6 +1,6 @@
 backend:
-  name: github
-  repo: acgd-webdev-workshops/realcottages
+  name: git-gateway # Netlify’s Git Gateway connects to Git provider’s API
+  branch: master # Branch to update (master by default)  
 
 media_folder: "images/uploads"
 
