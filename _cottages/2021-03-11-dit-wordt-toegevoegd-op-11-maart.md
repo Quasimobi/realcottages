@@ -11,5 +11,8 @@ addr:
   street: Honingerdijk 3B
   locality: Rotterdam
   region: Holland
+photos:
+  - url: /images/uploads/old-brick-home-thumb.jpg
+    caption: Dit is de extra foto
 ---
 **Dit is een heel mooi huis**
