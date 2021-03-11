@@ -14,5 +14,7 @@ addr:
 photos:
   - url: /images/uploads/old-brick-home-thumb.jpg
     caption: Dit is de extra foto
+  - url: /images/uploads/old-english-house-thumb.jpg
+    caption: Dit is de tweede foto
 ---
 **Dit is een heel mooi huis**
