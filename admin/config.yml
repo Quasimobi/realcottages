@@ -213,7 +213,8 @@ collections:
         fields:
           - label: "Sociaal Icon"
             name: "sociaal_icon"
-            widget: "string"
+            widget: "select"
+            options: ["facebook", "twitter", "linkedin"]
           - label: "Sociaal Link"
             name: "sociaal_link"
             widget: "string"            
