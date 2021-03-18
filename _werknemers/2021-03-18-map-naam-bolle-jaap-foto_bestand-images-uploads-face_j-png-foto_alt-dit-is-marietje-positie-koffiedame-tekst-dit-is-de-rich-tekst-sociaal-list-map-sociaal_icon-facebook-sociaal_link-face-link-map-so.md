@@ -1,4 +1,5 @@
 ---
+title: Deze is extra
 naam: Bolle Jaap
 foto_bestand: /images/uploads/face_j.png
 foto_alt: Dit is Marietje
