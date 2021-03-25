@@ -213,6 +213,7 @@ collections:
       - label: "Sociaal"
         name: "sociaal"
         widget: "list"
+        default: []
         fields:
           - label: "Sociaal Icon"
             name: "sociaal_icon"
