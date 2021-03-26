@@ -211,6 +211,7 @@ collections:
         name: "tekst"
         widget: "markdown"
         sanitize_preview: true
+        buttons: ["bold", "italic"]        
       - label: "Sociaal"
         name: "sociaal"
         widget: "list"
