@@ -207,11 +207,7 @@ collections:
       - label: "Positie"
         name: "positie"
         widget: "string"
-      - label: "Tekst"
-        name: "tekst"
-        widget: "markdown"
-        sanitize_preview: true
-        buttons: ["bold", "italic"]        
+      - { label: "Nieuwe Tekst", name: "markdown", widget: "markdown", sanitize_preview: true, buttons: ["bold", "italic"]}        
       - label: "Sociaal"
         name: "sociaal"
         widget: "list"
