@@ -219,4 +219,5 @@ collections:
             options: ["facebook", "twitter", "linkedin"]
           - label: "Sociaal Link"
             name: "sociaal_link"
-            widget: "string"            
+            widget: "string"    
+      - { label: "Body Tekst", name: "body", widget: "markdown", sanitize_preview: true, buttons: ["bold", "italic"]}                    
